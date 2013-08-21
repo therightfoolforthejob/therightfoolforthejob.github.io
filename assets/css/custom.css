@@ -449,3 +449,22 @@ a.member:hover{
 .footer .footer-newsletter{
   padding-left:5px;
 }
+
+
+//contact icons dl
+dl.icons {
+}
+
+dl.icons dt {
+  width: 20px;
+  float: left !important:
+  line-height: 0;
+}
+
+dl.icons dd {
+  line-height: 0;
+  margin-left: 2em;
+  display: block;
+  float: left;
+}
+
